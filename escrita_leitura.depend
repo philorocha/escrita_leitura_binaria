@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517313961 source:/home/felipe/Documents/C/escrita_leitura/main.c
+	<stdio.h>
+	<stdlib.h>
+
